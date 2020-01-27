@@ -1,0 +1,4 @@
+2020-01-27 19:28:46 [main] INFO  outfile:82 - By.xpath: //*[@id='mod-video-player_module-1']/div/div[6]/div/a FOUND
+2020-01-27 19:28:47 [main] INFO  outfile:175 - Element click [[ChromeDriver: chrome on XP (28b8ad88d348b8df07363bfff48c4637)] -> xpath: //*[@id='mod-video-player_module-1']/div/div[6]/div/a] successful
+2020-01-27 19:28:52 [main] INFO  outfile:82 - By.xpath: //button[@aria-label='Play'] FOUND
+2020-01-27 19:28:52 [main] INFO  outfile:175 - Element click [[ChromeDriver: chrome on XP (28b8ad88d348b8df07363bfff48c4637)] -> xpath: //button[@aria-label='Play']] successful
