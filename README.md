@@ -27,6 +27,3 @@ URL under test: https://www.sbs.com.au/news/insight/tvepisode/burnout
 2. Selenium Webdriver
 3. Cucumber
 4. Maven
-
-README.md
-Displaying README.md.
