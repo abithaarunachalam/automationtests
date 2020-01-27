@@ -22,7 +22,7 @@ Testing a video from sbs webpage using Selenium webdriver
 URL under test: https://www.sbs.com.au/news/insight/tvepisode/burnout
 ```
 
-### Tech Stack used
+## Tech Stack used
 ```
 1. Java 1.7
 2. Selenium Webdriver
