@@ -15,19 +15,18 @@ Testing a video from sbs webpage using Selenium webdriver
 
 * 3. Build the project using Maven build and right chick on sbs.feature file and select Run as Cucumber feature to run the project.
 
-```
 ## Webpage under test
 
-```
-URL under test: https://www.sbs.com.au/news/insight/tvepisode/burnout
-```
 
-## Tech Stack used
-```
+URL under test: https://www.sbs.com.au/news/insight/tvepisode/burnout
+
+
+### Tech Stack used
+
 1. Java 1.7
 2. Selenium Webdriver
 3. Cucumber
 4. Maven
-```
+
 README.md
 Displaying README.md.
